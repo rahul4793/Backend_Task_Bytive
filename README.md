@@ -1,8 +1,10 @@
 To run it locally
+   ```bash
+
 cd Backend_Task_Bytive
 npm install
 node server.js
-
+``````````
 Login 
 
 ![image](https://github.com/user-attachments/assets/8268e722-df4d-4e58-9396-2d8c8f87037c)
